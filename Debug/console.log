@@ -1,0 +1,18 @@
+
+**** Build of configuration Debug for project Tasking_TC397_MPU ****
+
+"D:\\App\\Tasking6_3_Install\\ctc\\bin\\amk" -j8 all 
+Compiling Cpu0_Main.c
+ctc W557: ["..\0_Src\0_AppSw\Tricore\Main\Cpu0_Main.c" 147/12] possible infinite loop
+0 errors, 1 warnings
+Linking to Tasking_TC397_MPU.elf
+
+Time consumed: 9042 ms
+**** End of build ****
+
+Tool info: 
+TASKING VX-toolset for TriCore: control program v6.3r1 Build 19041558
+TASKING VX-toolset for TriCore: C compiler v6.3r1 Build 19041558 SN 09003382
+TASKING VX-toolset for TriCore: assembler v6.3r1 Build 19041558
+TASKING program builder v6.3r1 Build 19041558
+TASKING VX-toolset for TriCore: object linker v6.3r1 Build 19041558 SN 09003382
